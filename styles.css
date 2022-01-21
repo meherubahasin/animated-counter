@@ -1,0 +1,17 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #FBFBFB;
+  padding: 5%;
+  margin: 10%;
+  text-align: center;
+}
+
+.counter {
+  color: #C36A2D;
+  font-size: 10rem;
+  font-weight: 600;
+}
+
+h3 {
+  color: #E2C275;
+}
